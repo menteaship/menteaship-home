@@ -62,7 +62,7 @@ export default class IndexPage extends React.Component {
                     to crowdsource topics.{' '}
                   </p>
                   <p>
-                    <a className="btn btn-secondary" href="#" role="button">
+                    <a className="btn btn-secondary" href="https://www.wondervent.com/event/98c07" target="_blank" role="button">
                       RSVP Now &raquo;
                     </a>
                   </p>
@@ -74,7 +74,7 @@ export default class IndexPage extends React.Component {
                     you to join, ask questions, and share your experiences!
                   </p>
                   <p>
-                    <a className="btn btn-secondary" href="#" role="button">
+                    <a className="btn btn-secondary" href="https://stltech.org/" target="_blank" role="button">
                       Join Slack &raquo;
                     </a>
                   </p>
