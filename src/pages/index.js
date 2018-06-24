@@ -26,10 +26,7 @@ export default class IndexPage extends React.Component {
                 <h1 className="display-3">
                   Welcome to men<i>tea</i>ship
                 </h1>
-                <p>
-                  We're building a community of inclusive and supportive developers who meet
-                  together to chat about our careers
-                </p>
+                <p>We're building a community of inclusive and supportive developers.</p>
                 <p>
                   <a
                     className="btn btn-primary btn-lg"
@@ -37,9 +34,51 @@ export default class IndexPage extends React.Component {
                     role="button"
                     target="_blank"
                   >
-                    Subscribe
+                    Subscribe for Updates
                   </a>
                 </p>
+              </div>
+            </div>
+
+            <div className="container">
+              <div className="row">
+                <div className="col-md-4">
+                  <h2>Mission</h2>
+                  <p>
+                    The men<i>tea</i>ship community is building casual and inclusive environments
+                    for developers to support and mentor one another. We believe that developers of
+                    every skill level need time to share, listen, and connect with fellow developers
+                    for mentorship.{' '}
+                  </p>
+                </div>
+                <div className="col-md-4">
+                  <h2>Meetup</h2>
+                  <p>
+                    men<i>tea</i>ship meets once a month to share tea (and coffee) and have a
+                    round-table discussion using{' '}
+                    <a href="http://leancoffee.org/" target="_blank">
+                      Lean Coffee
+                    </a>{' '}
+                    to crowdsource topics.{' '}
+                  </p>
+                  <p>
+                    <a className="btn btn-secondary" href="#" role="button">
+                      RSVP Now &raquo;
+                    </a>
+                  </p>
+                </div>
+                <div className="col-md-4">
+                  <h2>Chat</h2>
+                  <p>
+                    You can find us on STLTech Slack under the #menteaship channel. We'd love for
+                    you to join, ask questions, and share your experiences!
+                  </p>
+                  <p>
+                    <a className="btn btn-secondary" href="#" role="button">
+                      Join Slack &raquo;
+                    </a>
+                  </p>
+                </div>
               </div>
             </div>
           </main>
