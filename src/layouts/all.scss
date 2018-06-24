@@ -1,0 +1,13 @@
+$theme-colors: (
+        "primary": #6610f2,
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.jumbotron {
+  padding-top: 100px;
+}
+
+#mainContent {
+  padding-top: 100px;
+}
