@@ -1,7 +1,11 @@
 $theme-colors: (
-        "primary": #6610f2,
+  "primary": #6610f2,
+  "secondary": #FFE200
 );
 
+$body-bg: #f8f9fa;
+
+//noinspection CssUnknownTarget
 @import "node_modules/bootstrap/scss/bootstrap";
 
 .jumbotron {
@@ -9,5 +13,6 @@ $theme-colors: (
 }
 
 .contentBody {
-  padding-top: 100px;
+  padding-top: 96px;
+  padding-bottom: 46px;
 }

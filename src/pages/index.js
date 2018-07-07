@@ -20,7 +20,7 @@ export default class IndexPage extends React.Component {
                 <p>We're building a community of inclusive and supportive developers.</p>
                 <p>
                   <a
-                    className="btn btn-primary btn-lg"
+                    className="btn btn-secondary btn-lg"
                     href="http://email.menteaship.com"
                     role="button"
                     target="_blank"

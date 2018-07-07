@@ -4,17 +4,15 @@ title: Code of Conduct
 ---
 
 ### Anti-Harassment Policy
-
 men_tea_ship is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all men_tea_ship spaces, including meetups, the [STLTech Slack](https://stltech.org/) #men_tea_ship channel, and any future spaces, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the incident response team (Contact information below).
+This code of conduct applies to all men_tea_ship spaces, including meetups, the [STLTech Slack](https://stltech.org/) `#menteaship` channel, and any future spaces, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the incident response team (Contact information below).
 
-In addition to the men_tea_ship Code of Conduct, participants in the #men_tea_ship Slack channel are subject to STLTech’s [Code of Conduct](https://stltech.org/#code-of-conduct).
+In addition to the men_tea_ship Code of Conduct, participants in the `#menteaship` Slack channel are subject to STLTech’s [Code of Conduct](https://stltech.org/#code-of-conduct).
 
 Some men_tea_ship spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 **Harassment includes:**
-
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names.

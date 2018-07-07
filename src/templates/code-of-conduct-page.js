@@ -2,26 +2,18 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Content, { HTMLContent } from '../components/Content';
 
-//TODO: Clean up these classes
-//TODO: Pane/Card?
-
 export const CodeOfConductTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h1>{title}</h1>
-              <br />
-              <PageContent className="content" content={content} />
-            </div>
-          </div>
+    <div className="container ">
+      <div className="card">
+        <h1 className="card-header bg-secondary">{title}</h1>
+        <div className="card-body">
+          <PageContent className="card-text" content={content} />
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 
