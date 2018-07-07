@@ -1,3 +1,9 @@
+/**
+ * Created by Andrew Bell 07/07/18
+ * www.recursivechaos.com
+ * andrew@recursivechaos.com
+ * Licensed under MIT License 2018. See LICENSE.txt for details.
+ */
 import React from 'react';
 import Link from 'gatsby-link';
 

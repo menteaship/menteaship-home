@@ -1,52 +1,57 @@
-# Gatsby + Netlify CMS Starter
+# menTEAship Homepage
 
-This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
+Homepage for [menTEAship](http://www.menteaship.com), built using Gatsby.
 
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
+Based on the [Gatsby + Netlify CMS Starter](https://github.com/AustinGreen/gatsby-starter-netlify-cms)
 
-## Prerequisites
+## Goals
 
-- Node (I recommend using v8.2.0 or higher)
-- [Gatsby CLI](https://www.gatsbyjs.org/docs/)
+* Provide a landing page and information about menTEAship
+* Build a blog for menTEAship updates
 
-## Getting Started (Recommended)
+## Requirements
 
-Netlify CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. The example here is the Kaldi coffee company template (adapted from [One Click Hugo CMS](https://github.com/netlify-templates/one-click-hugo-cms)). Use the button below to build and deploy your own copy of the repository:
+[Node](https://nodejs.org/en/download/) - Tested on v8.11.3
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/AustinGreen/gatsby-starter-netlify-cms&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+[npm](https://www.npmjs.com/package/npm) - (Bundled with Node) Tested on v6.1.0
 
-After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
+### Optional 
 
-### Access Locally
-```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
-$ yarn
-$ npm run develop
-```
-To test the CMS locally, you'll need run a production build of the site:
-```
-$ npm run build
-$ npm run serve
-```
+[git](https://git-scm.com/downloads) - Alternatively, download a zip of this GitHub repo.
 
-## Getting Started (Without Netlify)
-```
-$ gatsby new [SITE_DIRECTORY_NAME] https://github.com/AustinGreen/gatsby-starter-netlify-cms/
-$ cd [SITE_DIRECTORY_NAME]
-$ npm run build
-$ npm run serve
+[Gatsby CLI](https://www.gatsbyjs.org/docs/) - `npm run ...` scripts should use the local installation
+
+## Developing Locally
+
+```bash
+git clone https://github.com/AndrewBell/menteaship-home.git
+cd menteaship-home
+npm install
+npm run develop
 ```
 
-### Setting up the CMS
-Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
+Open your browser to `localhost:8000`
 
-## Debugging
-Windows users might encounter ```node-gyp``` errors when trying to npm install.
-To resolve, make sure that you have both Python 2.7 and the Visual C++ build environment installed.
-```
-npm config set python python2.7
-npm install --global --production windows-build-tools
-```
+## Contributing
 
-[Full details here](https://www.npmjs.com/package/node-gyp 'NPM node-gyp page')
+If you would like to make an update to the menTEAship homepage, fork and open a pull request. If you have any questions, please feel free to reach out (contact info below)
+
+## Additional Resources
+
+[Gatsby](https://www.gatsbyjs.org/)
+
+[Netlify](https://www.netlify.com)
+
+[Netlify CMS](https://www.netlifycms.org)
+
+[JAMstack architecture](https://jamstack.org)
+
+## Contact Me
+
+### Andrew "Doc" Bell ###
+
+homepage: www.recursivechaos.com
+
+email: andrew@recursivechaos.com
+
+twitter: @recursive_chaos

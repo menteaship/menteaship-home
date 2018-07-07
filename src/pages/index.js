@@ -1,3 +1,9 @@
+/**
+ * Created by Andrew Bell 07/07/18
+ * www.recursivechaos.com
+ * andrew@recursivechaos.com
+ * Licensed under MIT License 2018. See LICENSE.txt for details.
+ */
 import React from 'react';
 
 export default class IndexPage extends React.Component {
@@ -5,21 +11,6 @@ export default class IndexPage extends React.Component {
     return (
       <div className="container" id="mainContent">
         <div className="text-center">
-          <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
-            <a className="navbar-brand" href="#">
-              men<i>tea</i>ship
-            </a>
-            <div className="collapse navbar-collapse" id="navbarsExampleDefault">
-              <ul className="navbar-nav mr-auto">
-                <li className="nav-item active">
-                  <a className="nav-link" href="#">
-                    Home <span className="sr-only">(current)</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </nav>
-
           <main role="main">
             <div className="jumbotron">
               <div className="container-fluid">
