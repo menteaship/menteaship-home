@@ -22,11 +22,12 @@ const Navbar = () => (
     {/*<div className="collapse navbar-collapse" id="nav-content">*/}
     <div id="nav-content">
       <ul className="navbar-nav mr-auto">
-        <li className="nav-item">
-          <Link to="/about" className="nav-link" activeClassName="active">
-            About
-          </Link>
-        </li>
+        {/*Disabling About until navbar issues are resolved and content is ready*/}
+        {/*<li className="nav-item">*/}
+        {/*<Link to="/about" className="nav-link" activeClassName="active">*/}
+        {/*About*/}
+        {/*</Link>*/}
+        {/*</li>*/}
         <li className="nav-item">
           <Link to="/code-of-conduct" className="nav-link" activeClassName="active">
             Code of Conduct

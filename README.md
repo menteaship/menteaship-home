@@ -46,6 +46,8 @@ If you would like to make an update to the menTEAship homepage, fork and open a 
 
 [JAMstack architecture](https://jamstack.org)
 
+[remarkable (Markdown Support) Live Demo](https://jonschlinkert.github.io/remarkable/demo/)
+
 ## Contact Me
 
 ### Andrew "Doc" Bell ###

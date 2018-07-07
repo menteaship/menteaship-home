@@ -2,6 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Content, { HTMLContent } from '../components/Content';
 
+//TODO: Clean up these classes
+//TODO: Pane/Card?
+
 export const CodeOfConductTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
@@ -11,7 +14,8 @@ export const CodeOfConductTemplate = ({ title, content, contentComponent }) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h2>
+              <h1>{title}</h1>
+              <br />
               <PageContent className="content" content={content} />
             </div>
           </div>
