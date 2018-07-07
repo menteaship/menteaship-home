@@ -1,10 +1,10 @@
 ---
 templateKey: about-page
-title: About Menteaship
+title: About menTEAship
 ---
 ### Goal
 
-men_tea_ship aims to build supportive and inclusive environments for developers of all skill ranges to discuss career goals, share perspectives, and mentor one another. 
+menTEAship aims to build supportive and inclusive environments for developers of all skill ranges to discuss career goals, share perspectives, and mentor one another. 
 
 ### Meetup
 
