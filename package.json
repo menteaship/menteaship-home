@@ -31,11 +31,11 @@
     "develop": "gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --write \"{gatsby-*.js,src/**/*.js}\"",
+    "clean": "rm -rf node_modules .cache public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "bootstrap": "^4.1.1",
-    "bootswatch": "^4.1.1",
     "prettier": "^1.13.5"
   }
 }

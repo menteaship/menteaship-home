@@ -9,7 +9,7 @@ import React from 'react';
 export default class IndexPage extends React.Component {
   render() {
     return (
-      <div className="container" id="mainContent">
+      <div className="container">
         <div className="text-center">
           <main role="main">
             <div className="jumbotron">
