@@ -54,12 +54,12 @@ export default class IndexPage extends React.Component {
                   </p>
                   <p>
                     <a
-                      className="btn btn-secondary"
-                      href="https://www.wondervent.com/event/98c07"
-                      target="_blank"
+                      className="btn btn-secondary btn-lg"
+                      href="http://email.menteaship.com"
                       role="button"
+                      target="_blank"
                     >
-                      RSVP Now &raquo;
+                      Subscribe for Updates
                     </a>
                   </p>
                 </div>
