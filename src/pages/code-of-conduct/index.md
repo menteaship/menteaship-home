@@ -60,7 +60,5 @@ Becca Stevens <Christensen.Rebeccaa@gmail.com>
 
 Michael Antry <me@michaelantry.com>
 
-Keith Chester <kchester@gmail.com>
-
 ### Source
-This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community. 
+This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community.
