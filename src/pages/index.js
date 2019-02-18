@@ -21,7 +21,7 @@ export default class IndexPage extends React.Component {
                 <p>
                   <a
                     className="btn btn-secondary btn-lg"
-                    href="http://email.menteaship.com"
+                    href="http://meetu.ps/c/4fFmG/wKBN/f"
                     role="button"
                     target="_blank"
                   >
@@ -55,7 +55,7 @@ export default class IndexPage extends React.Component {
                   <p>
                     <a
                       className="btn btn-secondary btn-lg"
-                      href="http://email.menteaship.com"
+                      href="http://meetu.ps/c/4fFmG/wKBN/f"
                       role="button"
                       target="_blank"
                     >
